@@ -90,7 +90,7 @@ def crawl_songs(url, num_songs_to_crawl, save_directory):
 
 if __name__ == "__main__":
     base_url = "https://pagalfree.com/"  # Replace with the actual website URL
-    num_songs_to_crawl = 500
+    num_songs_to_crawl = 200
     save_directory = r'C:\Users\14089\Desktop\NILAY JAIN\Personal Projects\Play_Song_By_Mood\SongsList\DownloadedSongs'   # Replace with the directory where you want to save the songs
 
     if not os.path.exists(save_directory):
