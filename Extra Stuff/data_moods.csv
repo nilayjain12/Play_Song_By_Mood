@@ -1,4 +1,4 @@
- ,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,mood,"mean(d,e,v)",mood_final
+name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,mood,"mean(d,e,v)",mood_final
 1999,1999,Prince,2H7PHVdQ3mXqEHXcvclTB0,10/27/1982,68,379266,0.866,0.137,0.73,0,0.0843,0.625,-8.201,0.0767,118.523,5,4,Happy,0.740333333,Pop Chill
 23,23,Blonde Redhead,4HIwL9ii9CcXpTOTzMq0MP,4/16/2007,43,318800,0.381,0.0189,0.832,0.196,0.153,0.166,-5.069,0.0492,120.255,8,4,Happy,0.459666667,Chill
 9 Crimes,9,Damien Rice,5GZEeowhvSieFDiR8fQ2im,11/6/2006,60,217946,0.346,0.913,0.139,7.73E-05,0.0934,0.116,-15.326,0.0321,136.168,0,4,Sad,0.200333333,Lofi
